@@ -1,0 +1,21 @@
+Conventions
+Best case - Omega
+Worst case - Big oh
+Avg case - - sign
+
+Cube > Square > Linear > Square root > Logn > constant
+
+
+1. Linear 
+    - O(n)
+    - directly proportional to length of input
+
+2. Quadratic
+    - O(n * n)
+    - squared proportion to length of input
+
+3. Constant
+    - O(1)
+    - constant time/space. Not dependant on input.
+
+Space Complexity
